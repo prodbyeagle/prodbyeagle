@@ -1,6 +1,6 @@
 👋 Hi, I'm @prodbyeagle.
 
-👀 I'm interested in Minecraft and coding in Python (I'm very new to it).
+👀 I'm interested in Minecraft and coding in Python, Javascript (I'm very new to it).
 
 🌱 I'm currently learning how to create a Discord RPG bot, although it's quite complex.
 
@@ -10,7 +10,7 @@
 
 Its good if you can speak or write german bc its easier for me!!
 
-@prodbyeagle
+[@prodbyeagle](https://youtube.com/channel/UCuQBjUEYZk8CtVKtgSK0LEg)
 
 https://linktr.ee/prodbyeagle
 
