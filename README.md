@@ -4,9 +4,9 @@
 
 ### ⚠️ I'm currently building an ??? Website which is very Complex!
 
-### 💞️ I'm looking to collaborate on Discord bot projects.
+### 💞️ I'm looking to collaborate on projects.
 
-### 📫 You can reach me by sending me messages here.
+### 📫 You can reach me by sending me an DM an Discord: @prodbyeagle
 
 ### Its good if you can speak or write german bc its easier for me!!
 
