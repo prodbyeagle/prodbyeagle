@@ -1,12 +1,12 @@
 # 👋 Hi, I'm @prodbyeagle.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELP+ME+AN+STALKER)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELP+ME+AN+STALKER)](http://linktr.ee/prodbyeagle)
 
 ![](https://github-readme-stats.vercel.app/api?username=prodbyeagle&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodbyeagle)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodbyeagle)](http://linktr.ee/prodbyeagle)
 
 
-### 👀 I'm interested in Minecraft and coding in Python, Javascript (I'm very new to it).
+### 👀 I'm interested in Minecraft and coding in Python, Javascript (newest Project is React).
 
 ### ⚠️ I'm currently building an ??? Website which is very Complex!
 
