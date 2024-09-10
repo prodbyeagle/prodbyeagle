@@ -1,18 +1,13 @@
 # 👋 Hi, I'm @prodbyeagle.
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELP+ME+AN+STALKER)](http://linktr.ee/prodbyeagle)
 
-![](https://github-readme-stats.vercel.app/api?username=prodbyeagle&show_icons=true&theme=radical)
+Hi there! I'm ProdbyEagle, a Full Stack Hobby Dev with a passion for Web Development. Here you'll find a collection of my projects and contributions to the open-source community.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prodbyeagle)](http://linktr.ee/prodbyeagle)
+## 🔧 Technologies and Tools
 
+  ![Python](https://badges.penpow.dev/badges/built-with/python/compact-minimal.webp)
+  ![JavaScript](https://badges.penpow.dev/badges/built-with/javascript/compact-minimal.webp)
+  ![React](https://badges.penpow.dev/badges/built-with/react/compact-minimal.webp)
 
-### 👀 I'm interested in Minecraft and coding in Python, Javascript (newest Project is React).
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-### 💞️ I'm looking to collaborate on projects.
-
-### 📫 You can reach me by sending me an DM an Discord: @prodbyeagle
-
-### Its good if you can speak or write german bc its easier for me!!
-
-[My Youtube Channel](https://youtube.com/channel/UCuQBjUEYZk8CtVKtgSK0LEg) | | [Other Links](https://linktr.ee/prodbyeagle)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELP+ME+AN+STALKER+DONT+DO+SOMETHING+TO+ME+PLEASE)](http://linktr.ee/prodbyeagle)
