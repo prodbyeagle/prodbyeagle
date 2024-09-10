@@ -16,5 +16,3 @@ I'm always open to collaborating and discussing new ideas. You can reach me thro
 
 [![Twitter](https://badges.penpow.dev/badges/social/x-singular/cozy.webp)](https://twitter.com/prodbyeagle)
 [![Discord](https://badges.penpow.dev/badges/social/discord-singular/cozy.webp)](https://discord.com/users/your-discord-id)
-
-Thanks for visiting my profile!
