@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @prodbyeagle
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELP+ME+AN+STALKER+DONT+DO+SOMETHING+TO+ME+PLEASE)](http://linktr.ee/prodbyeagle)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELLO+STRANGER)](http://linktr.ee/prodbyeagle)
 
 Hello! I'm ProdbyEagle, a passionate Full Stack Developer from 🇩🇪 with a focus on Web Development. I enjoy crafting user-friendly and dynamic web applications. Here, you'll find a showcase of my projects, contributions to the open-source community, and some personal insights into my development journey.
 
