@@ -1,16 +1,19 @@
-# 👋 Hi, I'm @prodbyeagle
+# Hi, I'm @prodbyeagle
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELLO+STRANGER)](http://linktr.ee/prodbyeagle)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELLO+STRANGER)](https://prodbyeagle.vercel.app#socials)
 
-Hello! I'm ProdbyEagle, a passionate Full Stack Developer from 🇩🇪 with a focus on Web Development. I enjoy crafting user-friendly and dynamic web applications. Here, you'll find a showcase of my projects, contributions to the open-source community, and some personal insights into my development journey.
+Hello! I'm ProdbyEagle, a passionate Frontend Developer from :de: Germany
 
-## 🛠️ Technologies and Tools
+## Technologies
 
-![Python](https://badges.penpow.dev/badges/built-with/python/compact-minimal.webp)
-![JavaScript](https://badges.penpow.dev/badges/built-with/javascript/compact-minimal.webp)
-![React](https://badges.penpow.dev/badges/built-with/react/compact-minimal.webp)
+![prodbyeagle](https://badges.penpow.dev/badges/built-with/javascript/compact-minimal.avif)
+![prodbyeagle](https://badges.penpow.dev/badges/built-with/react/compact-minimal.avif)
+![prodbyeagle](https://badges.penpow.dev/badges/built-with/tauri/compact-minimal.avif)
+![prodbyeagle](https://badges.penpow.dev/badges/built-with/typescript/compact-minimal.webp)
+![prodbyeagle](https://badges.penpow.dev/badges/built-with/tailwindcss/compact-minimal.webp)
+![prodbyeagle](https://badges.penpow.dev/badges/built-with/next/compact-minimal.webp)
 
-## 📫 Contact
+## Contact
 
 I'm always open to collaborating and discussing new ideas. You can reach me through the following channels:
 
