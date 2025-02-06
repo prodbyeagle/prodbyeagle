@@ -16,5 +16,4 @@ Hello! I'm ProdbyEagle, a passionate Frontend Developer from :de: Germany
 
 I'm always open to collaborating and discussing new ideas. You can reach me through the following channels:
 
-[![Twitter](https://badges.penpow.dev/badges/social/x-singular/cozy.webp)](https://twitter.com/prodbyeagle)
 [![Discord](https://badges.penpow.dev/badges/social/discord-singular/cozy.webp)](https://discord.gg/V33nExqB68)
