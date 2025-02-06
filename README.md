@@ -8,7 +8,6 @@ Hello! I'm ProdbyEagle, a passionate Frontend Developer from :de: Germany
 
 ![prodbyeagle](https://badges.penpow.dev/badges/built-with/javascript/compact-minimal.avif)
 ![prodbyeagle](https://badges.penpow.dev/badges/built-with/react/compact-minimal.avif)
-![prodbyeagle](https://badges.penpow.dev/badges/built-with/tauri/compact-minimal.avif)
 ![prodbyeagle](https://badges.penpow.dev/badges/built-with/typescript/compact-minimal.webp)
 ![prodbyeagle](https://badges.penpow.dev/badges/built-with/tailwindcss/compact-minimal.webp)
 ![prodbyeagle](https://badges.penpow.dev/badges/built-with/next/compact-minimal.webp)
