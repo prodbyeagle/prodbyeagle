@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Mono+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELLO+STRANGER)](https://prodbyeagle.vercel.app#socials)
 
-Hello! I'm ProdbyEagle, a passionate Frontend Developer from :de: Germany
+Hello! I'm ProdbyEagle, a passionate Frontend Developer from :de: Germany, and Currently working on EagleUI.
 
 ## Technologies
 
