@@ -1,13 +1,78 @@
-# Hi, I'm [@prodbyeagle](https://prodbyeagle.vercel.app/)
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Geist+Medium&pause=1000&color=C488FF&multiline=true&random=false&width=435&lines=HELLO+STRANGER)](https://elink.vercel.app/prodbyeagle)
+# Hey, I'm Noah 🦅
 
-Hello! I'm ProdbyEagle, a passionate Frontend Developer from :de: Germany.
+**Developer · Music Producer · Creative Builder**
 
-## Technologies
+I build clean applications, explore new technologies
+and produce music from Germany 🇩🇪
 
-![prodbyeagle](https://badges.penpow.dev/badges/built-with/react/compact-minimal.avif)
-![prodbyeagle](https://badges.penpow.dev/badges/built-with/typescript/compact-minimal.webp)
-![prodbyeagle](https://badges.penpow.dev/badges/built-with/tailwindcss/compact-minimal.webp)
-![prodbyeagle](https://badges.penpow.dev/badges/built-with/next/compact-minimal.webp)
-![prodbyeagle](https://badges.penpow.dev/badges/available/git/compact-minimal.avif)
+[Website](https://prodbyeagle.vercel.app/) · [All Links](https://elink.vercel.app/prodbyeagle)
+
+</div>
+
+---
+
+## About me
+
+* Building applications for the web, macOS and iOS
+* Focused on clean interfaces and thoughtful user experiences
+* Exploring native Apple development with Swift and SwiftUI
+* Producing music as **ProdbyEagle**
+
+## Tech Stack
+
+<table>
+  <tr>
+    <td align="center" width="100">
+      <img src="https://badges.penpow.dev/badges/built-with/react/cozy-minimal.svg" width="56" alt="React">
+      <br>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://badges.penpow.dev/badges/built-with/typescript/cozy-minimal.svg" width="56" alt="TypeScript">
+      <br>
+      <sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://badges.penpow.dev/badges/built-with/tailwindcss/cozy-minimal.svg" width="56" alt="Tailwind CSS">
+      <br>
+      <sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://badges.penpow.dev/badges/built-with/next/cozy-minimal.svg" width="56" alt="Next.js">
+      <br>
+      <sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://badges.penpow.dev/badges/built-with/swift/cozy-minimal.svg" width="56" alt="Swift">
+      <br>
+      <sub><b>Swift</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://badges.penpow.dev/badges/built-with/tauri/cozy-minimal.svg" width="56" alt="Tauri">
+      <br>
+      <sub><b>Tauri</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://badges.penpow.dev/badges/available/git/cozy-minimal.svg" width="56" alt="Git">
+      <br>
+      <sub><b>Git</b></sub>
+    </td>
+  </tr>
+</table>
+
+## What I'm working on
+
+* Native macOS and iOS applications
+* Web applications with React and TypeScript
+* Desktop applications with Tauri
+* Minimal and functional interface design
+
+---
+
+<div align="center">
+
+**Building things one questionable idea at a time.**
+
+</div>
