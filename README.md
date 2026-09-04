@@ -7,7 +7,7 @@
 I build clean applications, explore new technologies
 and produce music from Germany 🇩🇪
 
-[Website](https://prodbyeagle.vercel.app/) · [All Links](https://elink.vercel.app/prodbyeagle)
+[Website](https://prodbyeagle.vercel.app/)
 
 </div>
 
